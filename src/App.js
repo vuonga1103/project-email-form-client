@@ -1,3 +1,9 @@
+/**
+ * Links to tutorials
+ * https://www.youtube.com/watch?v=HZOXPta21PI
+ * https://www.youtube.com/watch?v=EPnBO8HgyRU
+ */
+
 import './App.css';
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
 import { useState } from 'react';
